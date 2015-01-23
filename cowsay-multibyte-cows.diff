@@ -1,0 +1,22 @@
+*** cowsay	2015-01-23 21:14:21.000000000 +0900
+--- cowsay-utf8	2015-01-23 21:14:52.195994602 +0900
+***************
+*** 11,16 ****
+--- 11,17 ----
+  use File::Basename;
+  use Getopt::Std;
+  use Cwd;
++ use Encode `decode`;
+  
+  if (${^UTF8LOCALE}) {
+      binmode STDIN, ':utf8';
+***************
+*** 75,80 ****
+--- 76,82 ----
+  &construct_face;
+  &get_cow;
+  print @balloon_lines;
++ $the_cow = decode('UTF-8', $the_cow);
+  print $the_cow;
+  
+  sub list_cowfiles {
