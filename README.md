@@ -4,6 +4,9 @@
 ### yasuna_2
 ![](http://41.media.tumblr.com/28c109c7ad3b73430a37449233f0cf24/tumblr_niziwknrJV1u2jamko2_1280.png)
 
+### yasuna_3
+![](http://41.media.tumblr.com/b37dfe6fd5295d533edad2741f358aa6/tumblr_njev11i4jd1u2jamko1_1280.png)
+
 ### hand
 ![](http://40.media.tumblr.com/f07edaa36c6ad2b78edb7d5e4d43072b/tumblr_niziwknrJV1u2jamko4_r1_1280.png)
 
