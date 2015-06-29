@@ -10,6 +10,12 @@
 ### yasuna_4
 ![](http://40.media.tumblr.com/576b696d66c2a70d7eb3063de644ece3/tumblr_nk210pcZjx1u2jamko1_1280.png)
 
+### yasuna_5
+![](http://40.media.tumblr.com/9c505e360b28c511472a2e3670e0c901/tumblr_nqoiqeVHs91u2jamko1_1280.png)
+
+### yasuna_6
+![](http://41.media.tumblr.com/6e290ce71374a081c9090bdff7b67b5a/tumblr_nqoin041XA1u2jamko1_1280.png)
+
 ### hand
 ![](http://40.media.tumblr.com/f07edaa36c6ad2b78edb7d5e4d43072b/tumblr_niziwknrJV1u2jamko4_r1_1280.png)
 
