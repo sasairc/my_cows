@@ -22,6 +22,9 @@
 ### ymd_udon
 ![](http://41.media.tumblr.com/23a24db1c9cd1c58f23e40130b5c0e9b/tumblr_niziwknrJV1u2jamko3_1280.png)
 
+### shinsei
+![](http://36.media.tumblr.com/b7dcc692dc2d85718b191bf3d1f4a832/tumblr_nqu6rxqmDf1u2jamko1_1280.png)
+
 ### karl_marx
 ![](http://41.media.tumblr.com/31311b2e3bf61760714843e54ec991be/tumblr_nl84amBVjE1u2jamko1_1280.png)
 
