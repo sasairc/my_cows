@@ -19,6 +19,9 @@
 ### yasuna_7
 ![](http://36.media.tumblr.com/cca2ef9557a27c24159088ea04fe4ac4/tumblr_nqyr2tSEAc1u2jamko1_1280.png)
 
+### yasuna_8
+![](http://41.media.tumblr.com/89a23ab0d35e6ae119ad752f18b606f0/tumblr_nrqwajULrK1u2jamko1_1280.png)
+
 ### hand
 ![](http://40.media.tumblr.com/f07edaa36c6ad2b78edb7d5e4d43072b/tumblr_niziwknrJV1u2jamko4_r1_1280.png)
 
