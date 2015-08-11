@@ -1,3 +1,5 @@
+## my cows
+
 ### yasuna
 ![](http://41.media.tumblr.com/54eb397bd56ce68899b0a7895b0c532f/tumblr_niziwknrJV1u2jamko1_1280.png) 
 
@@ -40,6 +42,18 @@
 ### karl_marx
 ![](http://41.media.tumblr.com/31311b2e3bf61760714843e54ec991be/tumblr_nl84amBVjE1u2jamko1_1280.png)
 
+### steroid_hage
+![](http://36.media.tumblr.com/14b02028d6f81cd26a7ac652c2b573b1/tumblr_nsxax560Nu1u2jamko1_1280.png)
 
-### License
+### drwtsn
+![](http://40.media.tumblr.com/f71717c67a075a2805390f5eef2a66c6/tumblr_nsxax560Nu1u2jamko2_1280.png)
+
+### msdos
+![](http://40.media.tumblr.com/adf962b3a939c58bd6a3e1a88f8f039d/tumblr_nsxax560Nu1u2jamko3_1280.png)
+
+
+## License
 [WTFPL version 2](http://www.wtfpl.net/txt/copying/)
+
+## Author
+sasairc (https://github.com/sasairc)
