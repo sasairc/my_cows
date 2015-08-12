@@ -51,6 +51,9 @@
 ### msdos
 ![](http://40.media.tumblr.com/adf962b3a939c58bd6a3e1a88f8f039d/tumblr_nsxax560Nu1u2jamko3_1280.png)
 
+### happy_mac
+![](http://41.media.tumblr.com/07a1aa2eea2e4b0f8944203f7471c3af/tumblr_nsz1x9haIm1u2jamko1_1280.png)
+
 
 ## License
 [WTFPL version 2](http://www.wtfpl.net/txt/copying/)
