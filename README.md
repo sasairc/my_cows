@@ -57,6 +57,11 @@
 ### happy_mac
 ![](http://41.media.tumblr.com/07a1aa2eea2e4b0f8944203f7471c3af/tumblr_nsz1x9haIm1u2jamko1_1280.png)
 
+### recycle_bin
+![](http://36.media.tumblr.com/8bf3de5d24c1580a0e9b217fada707d9/tumblr_ntm8uzjTPj1u2jamko1_1280.png)
+
+### recycle_bin_full
+![](http://40.media.tumblr.com/021d62962b67b7b8de34b82d37861ae7/tumblr_ntm8uzjTPj1u2jamko2_1280.png)
 
 ## License
 [WTFPL version 2](http://www.wtfpl.net/txt/copying/)
