@@ -42,6 +42,9 @@
 ### iwashi
 ![](http://41.media.tumblr.com/997e9c6aee56c31203706cb5ce500066/tumblr_nrjb58ubJm1u2jamko1_1280.png)
 
+### squid.cow
+![](http://40.media.tumblr.com/ec9c665a38576e06bfb3b6c581513011/tumblr_nukp0pYma71u2jamko1_1280.png)
+
 ### ibm
 ![](http://41.media.tumblr.com/fd2140d2b758278d55dcef9253111d8f/tumblr_nron2jpiRC1u2jamko1_1280.png)
 
