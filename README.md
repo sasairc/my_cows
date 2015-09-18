@@ -69,6 +69,12 @@
 ### recycle_bin_full
 ![](http://40.media.tumblr.com/021d62962b67b7b8de34b82d37861ae7/tumblr_ntm8uzjTPj1u2jamko2_1280.png)
 
+### marx-leninism
+![](http://40.media.tumblr.com/0eb72b5ee6e39c965cb7f907f7e92e1e/tumblr_nuvwwxZbsw1u2jamko1_1280.png)
+
+### marx-leninism-nc
+![](http://40.media.tumblr.com/d107e41032abc495f9b9f47d3451681d/tumblr_nuvwwxZbsw1u2jamko2_1280.png)
+
 ## License
 [WTFPL version 2](http://www.wtfpl.net/txt/copying/)
 
