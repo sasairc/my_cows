@@ -85,6 +85,9 @@
 ### imgur
 ![](http://36.media.tumblr.com/9fa72d7ac9e2606f8d63f8cfac6bf97c/tumblr_nvjaq28pBE1u2jamko1_1280.png)
 
+### debian.cow
+![](http://41.media.tumblr.com/f285a5e4ee6586c750a097e67f3148c4/tumblr_nvqz6iTvCw1u2jamko1_1280.png)
+
 ## License
 [WTFPL version 2](http://www.wtfpl.net/txt/copying/)
 
