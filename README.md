@@ -59,6 +59,10 @@ my cows
 
 ![](http://40.media.tumblr.com/85866e6a6c2092f4087bd15ea4c89fd4/tumblr_o3dgw1OPYq1u2jamko1_1280.png)
 
+### yasuna_14
+
+![](http://66.media.tumblr.com/2ec07afb1ef2930e2adc976518f31c70/tumblr_odch88yqtf1u2jamko1_1280.png)
+
 ### hand
 
 ![](http://41.media.tumblr.com/5c886d376e67b411e4aa40e07a725ac5/tumblr_ntjvzgwgJ81u2jamko1_r1_1280.png)
